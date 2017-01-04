@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "34B935911E0A210500E167C9"
-               BuildableName = "Insert String"
-               BlueprintName = "Insert String"
-               ReferencedContainer = "container:Insert String.xcodeproj">
+               BlueprintIdentifier = "34F29C111E1CBAEC0046FFC7"
+               BuildableName = "Receipts"
+               BlueprintName = "Receipts"
+               ReferencedContainer = "container:Receipts.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,10 +32,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "34B935911E0A210500E167C9"
-            BuildableName = "Insert String"
-            BlueprintName = "Insert String"
-            ReferencedContainer = "container:Insert String.xcodeproj">
+            BlueprintIdentifier = "34F29C111E1CBAEC0046FFC7"
+            BuildableName = "Receipts"
+            BlueprintName = "Receipts"
+            ReferencedContainer = "container:Receipts.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -55,10 +55,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "34B935911E0A210500E167C9"
-            BuildableName = "Insert String"
-            BlueprintName = "Insert String"
-            ReferencedContainer = "container:Insert String.xcodeproj">
+            BlueprintIdentifier = "34F29C111E1CBAEC0046FFC7"
+            BuildableName = "Receipts"
+            BlueprintName = "Receipts"
+            ReferencedContainer = "container:Receipts.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -74,10 +74,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "34B935911E0A210500E167C9"
-            BuildableName = "Insert String"
-            BlueprintName = "Insert String"
-            ReferencedContainer = "container:Insert String.xcodeproj">
+            BlueprintIdentifier = "34F29C111E1CBAEC0046FFC7"
+            BuildableName = "Receipts"
+            BlueprintName = "Receipts"
+            ReferencedContainer = "container:Receipts.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

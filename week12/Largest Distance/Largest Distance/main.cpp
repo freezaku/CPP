@@ -32,6 +32,6 @@ int main() {
             }
         }
     }
-    cout << "final: " << fixed << setprecision(4) << sqrt(maxDistance) << endl;
+    cout << fixed << setprecision(4) << sqrt(maxDistance) << endl;
     return 0;
 }
